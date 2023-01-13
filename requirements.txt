@@ -1,0 +1,9 @@
+Install all given libraries first, 
+then in cmd type: streamlit run app.py
+streamlit
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+emoji
